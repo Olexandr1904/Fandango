@@ -1,0 +1,6 @@
+rename fandango>brazole
+add pictures
+add free places
+add movie active dates
+create relationship movie & cinema
+add omdb web service
